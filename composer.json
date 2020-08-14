@@ -1,0 +1,21 @@
+{
+    "name": "salikhovid/yii2-blogs",
+    "description": "Blog module for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","blog","firstwork"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Salikhov Ismoil",
+            "email": "pilot.master.99@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "salikhovid\\blogs\\": ""
+        }
+    }
+}
